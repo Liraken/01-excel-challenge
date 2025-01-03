@@ -1,5 +1,15 @@
 # Excel Homework: Kickstart My Chart
 
+## **File Locations**
+- **`Images/`**: Contains screenshots and visual assets used in this project and README.
+- **`Starter_Code/`**: Contains blank starter files provided at the beginning of the assignment.
+- **`Written_Report.docx`**: Written Report for assignment 
+- **`Crowdfunding_Analysis.xlsm`**: The main excel file containing the completed analysis and code.
+- **`Notes`**: Contains any relevant notes if any exist.
+
+## Sources / References
+* Header image: NA
+
 ## Background
 
 Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
