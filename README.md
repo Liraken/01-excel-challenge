@@ -14,7 +14,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 ## Instructions
 
-![Kickstarter Table](Images/FullTable.png)
+![Kickstarter Table](Images/FullTable.PNG)
 
 Using the Excel table provided, modify and analyze the data of 4,000 past Kickstarter projects as you attempt to uncover some market trends.
 
