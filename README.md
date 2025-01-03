@@ -175,7 +175,7 @@ For those looking for an additional challenge, you will evaluate the number of b
 
 * Created a line chart showing the relationship between the goal’s amount and its chances at success, failure, or cancellation (5 points)
 
-# Statistical Analysis (20 points)
+## Statistical Analysis (20 points)
 * Computed calculations of the mean, median, min, max, variance, and stdev using Excel formulas (15 points)
 
 * A brief and compelling justification of whether the mean or median better summarizes the data (5 points)
