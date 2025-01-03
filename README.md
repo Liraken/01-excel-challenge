@@ -130,17 +130,3 @@ For those looking for an additional challenge, you will evaluate the number of b
 
 [Unit 1 Rubric - Excel Homework: Kickstart My Chart](https://docs.google.com/document/d/1RucBXrHMoOa8E4lta5bfaAfUxvRBvMjPELh3uHJL0tY/edit?usp=sharing)
 
-## Employer-Ready Criteria
-
-Students who are marked as employer-ready gain access to our employer referral program, additional workshops, and other resources. Work with your Career Director to become employer-ready. At a minimum, you must have:
-
-- A clear, concise, and compelling resume. Submit via your learning platform for review.
-- A polished GitHub profile:
-  - 3 - 6 pinned repositories ([instructions here](https://docs.github.com/en/enterprise/2.13/user/articles/pinning-items-to-your-profile))
-  - professional titles, i.e. not "Homework #1"
-  - thorough README.md files for each repository
-  - clean code
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
